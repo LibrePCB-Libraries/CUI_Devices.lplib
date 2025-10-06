@@ -3,7 +3,7 @@
  (description "Type C, 3 A, Right Angle, Surface Mount (SMT), Power Only 6-Pin USB Receptacle")
  (keywords "usb,type-c,power-only")
  (author "Danilo Bargen")
- (version "0.2")
+ (version "0.3")
  (created 2020-06-06T23:53:25Z)
  (deprecated false)
  (generated_by "")
