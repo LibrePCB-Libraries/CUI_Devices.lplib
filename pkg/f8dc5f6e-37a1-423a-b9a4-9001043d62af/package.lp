@@ -506,6 +506,9 @@
   (footprint 130c36d3-10db-43f3-96ce-9de3daad5b49)
  )
  (approved missing_footprint_3d_model
+  (footprint 6157c9ae-79d1-4876-98a4-f3e79ca1ac6c)
+ )
+ (approved missing_footprint_3d_model
   (footprint 86c0f655-f11c-4ae0-8361-73051c0c841d)
  )
  (approved missing_footprint_3d_model
