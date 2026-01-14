@@ -3,7 +3,7 @@
  (description "Type C, 3 A, Right Angle, Surface Mount (SMT), Power Only 6-Pin USB Receptacle")
  (keywords "usb,type-c,power-only")
  (author "Danilo Bargen")
- (version "0.3")
+ (version "0.3.1")
  (created 2020-06-06T23:27:17Z)
  (deprecated false)
  (generated_by "")
@@ -144,7 +144,6 @@
  (footprint 86c0f655-f11c-4ae0-8361-73051c0c841d
   (name "larger slots")
   (description "")
-  (tag "extra-large-pads")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (pad b6d77abd-8043-4150-88e2-95cb2344642a (side top) (shape roundrect)
    (position -4.32 -0.4) (rotation 90.0) (size 1.7 1.2) (radius 1.0)
@@ -265,7 +264,6 @@
  (footprint 6157c9ae-79d1-4876-98a4-f3e79ca1ac6c
   (name "larger slots, hand soldering")
   (description "")
-  (tag "extra-large-pads")
   (tag "hand-soldering")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
   (pad b6d77abd-8043-4150-88e2-95cb2344642a (side top) (shape roundrect)
@@ -507,6 +505,7 @@
    (auto_rotate true) (mirror false) (value "{{VALUE}}")
   )
  )
+ (approved ambiguous_footprint_tags)
  (approved missing_footprint_3d_model
   (footprint 130c36d3-10db-43f3-96ce-9de3daad5b49)
  )
